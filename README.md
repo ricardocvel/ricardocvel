@@ -1,30 +1,27 @@
-### Olá eu sou o Ricardo Campos
+### Hello, I'm Ricardo Campos
+🔭 Currently, I work with software development and maintenance: backend applications using technologies/standards such as JAVA, RESTful, Spring, Spring Boot, Docker, Postgre/Oracle, Liquibase, Hibernate, and others.
 
-🔭 Hoje trabalho com desenvolvimento e manutenção de software: aplicações para back-end com tecnologias/padrões: JAVA, RESTfull, Spring, Spring Boot, docker, Postgre/Oracle, Liquibase, Hibernate e outros.
+🌱 I'm currently studying system architecture and embedded systems.
 
-🌱 Atualmente estou estudando arquitetura de sistemas e sistemas embarcados.
-
-📫 e-mail: ricardocampos_pr@live.com, [Linkedin](https://www.linkedin.com/in/ricardocvel/) e Telegram @ricardo_campos_pr
+📫 Email: ricardocampos_pr@live.com, Linkedin, and Telegram @ricardo_campos_pr
 
 👨‍💻 Software:
-###### Maior experiência: ( projetos maiores ou experiência profissional com mais de um ano)
-- JAVA, Python;
-- JS, TS (Node e React);
-- SQL (Postgres e Oracle);
-- Esp32, Arduino e Pic com c/Python/ ladder;
-- Git e ambiente Linux;
-###### Outras experiências: ( projetos menores ou experiência profissional com menos de um ano)
-- C, C++;
-- JS, TS (React native, Angular, Gatsby);
-- Docker, AWS e Nginx;
 
+###### Extensive experience: (larger projects or professional experience over one year)
+JAVA, Python;
+JS, TS (Node and React);
+SQL (Postgres and Oracle);
+Embedded Systems: C/C++/microPython/ladder on platforms such as Esp, Atmega, Raspberry Pi, and Pic;
+Git, Docker, and Linux environment;
+###### Other experiences: (smaller projects or professional experience under one year)
+C, C++;
+JS, TS (React Native, Gatsby);
+AWS and Nginx;
+###### ⚙️ Other technical capabilities in:
 
-⚙️ Capacidades técnicas em :
--  eletromecânica, eletrônica e automação, responsabilidade técnica de projetos até 800VA bem como emissão laudos;
--  Atuação na área de Automação Industrial, com experiência na instalação de máquinas,
-concepção, análise, desenvolvimento e testes;
-- Prestação de suporte na montagem, manutenção e programação de PLC’s; controladores,
-sensores, comandos, motores elétricos, Soft start e inversor de frequência;
-- Elaboração de projetos de automação e eletrônica;
-
-
+Electromechanics, electronics, and automation, technical responsibility for projects up to 800KVA (BR), including issuing reports;
+Work in the field of Industrial Automation, with experience in machine installation,
+conceptualization, analysis, development, and testing;
+Providing support in assembly, maintenance, and programming of PLCs; controllers,
+sensors, commands, electric motors, soft starts, and frequency inverters;
+Development of automation and electronic projects;
